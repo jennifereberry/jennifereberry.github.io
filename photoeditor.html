@@ -1,5 +1,25 @@
 ---
 layout: default
-title: Home
+title: Photo Editor
+type: photoeditor
 ---
 
+<div>
+
+	{% for item in site.data.photoediting %}
+
+	<div class='row'>
+
+		{% for row in item.row %}
+
+			<div class='col-md-4'>
+				<img src='images/photoediting/{{ row }}' />
+			</div>
+
+		{% endfor %}
+
+	</div>
+
+	{% endfor %}
+
+</div>
