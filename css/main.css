@@ -1,4 +1,7 @@
 body { background: #E7E7E7; }
 
 .content { padding-top: 70px;  }
-.resume { margin: 10px; background: white; padding: 10px; }
+
+.footer { text-align: center; padding: 30px; }
+
+.resume { margin-top: 10px; background: white; padding: 10px; }
