@@ -1,5 +1,23 @@
 /* GLOBAL */
 
+body { padding-top: 80px; }
+
+.navbar { box-shadow: none; }
+.navbar-default .navbar-brand {  background: #C06; color: white; font-size: 24px; text-transform: uppercase; }
+
+.navbar-nav li { border-left: 1px solid #E5E5E5; min-width: 120px; text-decoration: uppercase; font-size: 14px; text-align: center; }
+.navbar-nav li:first-child { border: none; }
+
+
+.footer { text-align: center; padding: 30px; }
+
+
+
+
+.photoeditor img { display: block; width: 100%; }
+
+
+/*
 .header { background:#291f19; }
 .navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a { color: white; }
 
@@ -11,8 +29,8 @@
 
 .content { padding-top: 70px;  }
 
-.footer { text-align: center; padding: 30px; }
 
-.resume { margin-top: 10px; }
 
-.photoeditor img { display: block; width: 100%; }
+
+
+.photoeditor img { display: block; width: 100%; }*/
