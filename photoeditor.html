@@ -14,12 +14,9 @@ type: photoeditor
 	<div class='row'>
 	{% endif %}
 
-		{% for row in item.row %}
-			<div class='col-sm-3 col-lg-3'>
-				<img src='images/photoediting/{{ row }}' />
-			</div>
-
-		{% endfor %}
+		<div class='col-sm-3 col-lg-3'>
+			<img class='block-image' src='images/photoediting/{{ item.row }}' />
+		</div>
 
 	{% if modulo == '3' or forloop.last %}
 	</div>
