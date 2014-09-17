@@ -24,12 +24,8 @@
   
     {% include header.html %}
 
-    <div class="container content">
-        <div class="row {{ page.type }}">
-            
-            <div>{{ content }}</div>
-            
-        </div>
+    <div class="container content {{ page.type }}">
+        {{ content }}    
     </div>
 
     {% include footer.html %}
