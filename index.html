@@ -8,7 +8,7 @@ type: home
 	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 	  <!-- Indicators -->
 	  <ol class="carousel-indicators">
-	  	{% for item in site.data.photography %}
+	  	{% for item in site.data.index.photos %}
 		    <li data-target="#carousel-example-generic" data-slide-to="{{forloop.index0}}" {% if forloop.first %}class="active"{% endif %}></li>
 	    {% endfor %}
 	  </ol>
@@ -16,9 +16,9 @@ type: home
 	  <!-- Wrapper for slides -->
 	  <div class="carousel-inner">
 
-	  	{% for item in site.data.photography %}
+	  	{% for item in site.data.index.photos %}
 	  		<div class="item {% if forloop.first  %}active{% endif %}">
-	  			<img src="images/photography/{{ item.photo }}">
+	  			<img src="images/photography/{{ item }}">
 	  		</div>	
 	  	{% endfor %}
 
@@ -33,28 +33,3 @@ type: home
 	  </a>
 	</div> <!-- Carousel -->
 </div>
-
-<div class='col-md-10'>
-	<div class='row'>
-	{% for item in site.data.photoediting %}
-		{% if forloop.index < 9 %}
-
-		<div class="col-md-3">
-	        <div class="panel panel-default">
-				<img class='block-image' src='images/photoediting/{{ item.row }}' />				
-	        </div>
-	    </div>
-
-    		{% endif %}
-	{% endfor %}
-
-	</div>
-</div>
-
-<div class='col-md-2'>	
-<!-- SnapWidget -->
-<script src="http://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="http://snapwidget.com/in/?u=bWVqZW5pYnxpbnwxMjV8MXwzfHx5ZXN8NXxub25lfG9uU3RhcnR8bm98eWVz&ve=170914" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
-</div>
-
-
