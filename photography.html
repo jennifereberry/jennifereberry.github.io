@@ -4,3 +4,8 @@ title: Home
 type: photography
 ---
 
+{% for item in site.data.photography %}
+	<div class="row photo">
+		<img class='block-image' src="images/photography/{{ item }}">
+	</div>	
+{% endfor %}
