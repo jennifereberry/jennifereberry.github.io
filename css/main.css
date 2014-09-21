@@ -5,9 +5,13 @@ body { padding-top: 80px; }
 .navbar { box-shadow: none; }
 .navbar-default .navbar-brand {  background: #C06; color: white; font-size: 24px; text-transform: uppercase; }
 
-.navbar-nav li { border-left: 1px solid #E5E5E5; min-width: 120px; text-decoration: uppercase; font-size: 14px; text-align: center; }
+.navbar-nav li { text-decoration: uppercase; font-size: 14px; text-align: center; min-width: 100px; }
 .navbar-nav li:first-child { border: none; }
 
+.navbar-nav .icon-link { float:left; padding: 18px 10px 20.5px 10px;}
+.navbar-nav .icon { width: 25px; }
+
+.no-padding { padding: 0; }
 
 .footer { text-align: center; padding: 30px; }
 
