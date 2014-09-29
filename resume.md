@@ -6,7 +6,7 @@ type: resume
 
 #Weider History Group
 
-**Senior Photo Editor**,  3/2011 – Present, **Photo Editor**, 2006 - 3/2011
+**Senior Photo Editor**,  2011 – Present, **Photo Editor**, 2006 - 2011
 
 * Research imagery from stock agencies, PR agencies, archives, museums, international sources, and individual photographers
 * Collaborate with editors and art directors on visual direction, strategy, and captioning
