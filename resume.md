@@ -22,11 +22,16 @@ type: resume
 
 “The Last Battle”, Stephen Harding, 2012
 
+#Other Experience
+
 ***Freelance Photographer***, Gibbs & Soell, 2009
+
 
 ***Wedding Photographer***, 2007 - 2011
 
+
 ***Lab Technician***, Ritz Camera, 2005 - 2006
+
 
 ***Internet Sales Manager***, Amsterdam Chrysler Dodge, 2005
 
