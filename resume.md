@@ -4,13 +4,16 @@ title: Resume
 type: resume
 ---
 
+
 #HistoryNet
 
 **Senior Photo Editor**,  2011 – Present
 
+
 #Weider History Group
 
 **Photo Editor**, 2006 - 2011
+
 
 #Freelance Photo Editor
 
@@ -21,6 +24,7 @@ type: resume
 “Six Degrees of Separation Memphis Style”, Mike Caplanis, 2014
 
 “The Last Battle”, Stephen Harding, 2012
+
 
 #Other Experience
 
@@ -38,6 +42,7 @@ type: resume
 
 #Skills
 Adobe Creative Suite (Photoshop, Bridge, InDesign, Premiere, Lightroom), Large/Medium format photography, Wordpress, Basic HTML and CSS, Quark Publishing System, Microsoft Office (PowerPoint, Word, Excel, Outlook, Access), OS X, Windows
+
 
 #Education
 ***Savannah College of Art and Design***  
