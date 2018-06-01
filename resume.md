@@ -8,7 +8,7 @@ type: resume
 ### Smithsonian Institution Freer Gallery of Art and Arthur M. Sackler Gallery
 
 **Rights and Reproductions Coordinator**, 2017 - present
-<br /><br />
+
 ### HistoryNet
 
 **Freelance Photo Editor**, 2017 - present
