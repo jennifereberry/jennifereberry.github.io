@@ -5,38 +5,36 @@ type: resume
 ---
 
 
-#Smithsonian Institution Freer Gallery of Art and Arthur M. Sackler Gallery
+### Smithsonian Institution Freer Gallery of Art and Arthur M. Sackler Gallery
 
 **Rights and Reproductions Coordinator**, 2017 - present
-
-
-
-#HistoryNet
+<br /><br />
+### HistoryNet
 
 **Freelance Photo Editor**, 2017 - present
 
 
-#National Geographic Kids
+### National Geographic Kids
 
 **Freelance Photo Editor**, 2016 - present
 
 
-#American Society of Health System Pharmacists
+### American Society of Health System Pharmacists
 
 **Digital Content Specialist**, 2016
 
 
-#HistoryNet/Weider History Group
+### HistoryNet/Weider History Group
 
 **Senior Photo Editor**,  2011 – 2016
 
 
-#Weider History Group
+### Weider History Group
 
 **Photo Editor**, 2006 - 2011
 
 
-#Freelance Photo Editor
+### Freelance Photo Editor
 
 "Citizens and Soldiers: The First 200 Years of Norwich University," Norwich University and Whole Green Productions, 2018 (In progress)
 
@@ -62,12 +60,12 @@ type: resume
 
 
 
-#Skills/Software
+### Skills/Software
 Adobe Creative Suite (Photoshop, Dreamweaver, Bridge, InDesign, Premiere, Lightroom); Adobe Acrobat Pro; The Museum System (TMS, collection management system used by the Smithsonian); Digital Asset Management System (DAMS, used by the Smithsonian); MediaGrid (CMS used by National Geographic); FileMaker (Image rights tracking software used by National Geographic); GM6 (CMS used by ASHP); Higher Logic (CMS used by ASHP); Mavenlink and Asana (Project management software); Wordpress; Dropbox; HTML and CSS; Citrix; Quark Publishing System; Microsoft Office (PowerPoint, Word, Excel, Outlook, Access); Quickbooks; Large/Medium format photography; Google Drive/Docs; OS X; Windows; Working knowledge of French, German, and Classical Greek languages
 
 
 
-#Education
+### Education
 **Rochester Institute of Technology**
 
 Bachelor of Fine Arts in Applied Photography
@@ -111,7 +109,7 @@ Methodology and excavation techniques, cleaning and cataloging artifacts, docume
 
 
 
-#Professional Affiliations
+### Professional Affiliations
 
 American Society of Picture Professionals
 
@@ -127,6 +125,6 @@ Smithsonian Material Culture Forum
 
 
 
-#Volunteer
+### Volunteer
 
 **Smithsonian Institution** – Information Desk Specialist (2014 – Present)
