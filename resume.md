@@ -10,6 +10,7 @@ type: resume
 **Rights and Reproductions Coordinator**, 2017 - present
 
 
+
 #HistoryNet
 
 **Freelance Photo Editor**, 2017 - present
