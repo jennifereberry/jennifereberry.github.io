@@ -5,7 +5,7 @@ type: resume
 ---
 
 
-#Smithsonian Institution Freer Gallery of Art and Arthur M. Sackler Gallery
+*Smithsonian Institution* Freer Gallery of Art and Arthur M. Sackler Gallery
 
 **Rights and Reproductions Coordinator**, 2017 - present
 
